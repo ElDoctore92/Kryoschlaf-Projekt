@@ -1,0 +1,4 @@
+## In‑Silico Simulation: Hybrides künstliches Blut (HBOC + PFC)
+
+Die Datei `hybrid_blood_simulation.py` enthält eine rein rechnerische Monte‑Carlo‑Simulation zur Bewertung eines hybriden O₂‑Carriers (verkapseltes HBOC + PFC). Die Simulation erzeugt CSV‑Ergebnisse und Plots im Ordner `simulation_outputs`.  
+Wichtig: Dies ist ein In‑Silico‑Modell; keine Labor‑ oder Herstellungsanweisungen sind enthalten.
