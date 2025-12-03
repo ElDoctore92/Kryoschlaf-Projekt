@@ -1,0 +1,8 @@
+# Beispielkonfiguration für einen kurzen Testlauf
+seed: 42
+days: 30
+mc_runs: 10
+r0_week: 0.01
+r1_week: 0.0015
+P_nominal: 0.95
+notstrom_hours: 72
